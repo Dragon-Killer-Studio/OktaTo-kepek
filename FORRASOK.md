@@ -1834,6 +1834,20 @@ Képenként: a fájl, a tartalma, valamint a forrás, a szerző és a licenc —
 - `mesterseg/kard-szablyak.jpg` — Honfoglalás kori szablya (Kardkovácsolás): Honfoglalás kori magyar szablyák, fotó: OrionNimrod, CC0 — https://commons.wikimedia.org/wiki/File:Magyar_honfoglal%C3%A1skori_szably%C3%A1k.jpg
 - `mesterseg/kard-ulfberht.jpg` — Kardkovácsolás: Az „ULFBERHT” felirat egy viking kori kard pengéjén, fotó: Torana, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Ulfberht.jpg
 - `mesterseg/kard-viking.jpg` — 10. lépés: A markolat felszerelése (Kardkovácsolás): Viking kori kardok markolattal és keresztvassal, fotó: Arild Finne Nybø, CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:Viking_swords_01.jpg
+- `mesterseg/kotel-gep.jpg` — Kötélverő kerék (sodrógép) (Kötélverés): Fotó: ArnoldReinhold, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Rope_machine_SF_NMHP_3.agr.jpg
+- `mesterseg/kotel-horog.jpg` — Kötélverő horog (Kötélverés): Fotó: Jacquestsf, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Croc_de_cordier.jpg
+- `mesterseg/kotel-kender.jpg` — Kender (Kötélverés): Fotó: Nabokov, közkincs — https://commons.wikimedia.org/wiki/File:Hemp_plants-cannabis_sativa-field.JPG
+- `mesterseg/kotel-kup.jpg` — Kötélverő kúp (vezetőfa) (Kötélverés): Fotó: Ra Boe, CC BY-SA 2.5 — https://commons.wikimedia.org/wiki/File:Balje_2007_-Mittelalterliches_Dorf_%22Op_de_Horn%22_Seilerei_F%C3%BChrungsdorn-_by_RaBoe_002.jpg
+- `mesterseg/kotel-lepes-1.jpg` — 1. lépés: A kender nyűvése és áztatása (Kötélverés): Fotó: ismeretlen szerző (Touring Club Italiano, 1950), CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Photo_Hemp_fiber_sheaves_left_to_macerate_1950_-_Touring_Club_Italiano_1.2770.jpg
+- `mesterseg/kotel-lepes-2.jpg` — 2. lépés: Szárítás (Kötélverés): Fotó: ismeretlen szerző (Touring Club Italiano, 1950), CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Photo_Hemp_maceration_1950_-_Touring_Club_Italiano_1.2771.jpg
+- `mesterseg/kotel-lepes-3.jpg` — 3. lépés: Törés és tilolás (Kötélverés): Fotó: Лапоть, CC0 — https://commons.wikimedia.org/wiki/File:Flax_brake_1_-_Smolensk_Flax.jpg
+- `mesterseg/kotel-lepes-4.jpg` — 4. lépés: Gerebenezés (Kötélverés): Festmény: Anna Máľachová-Fajndovićová: Kenderfésülés (1957), CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Anna_M%C3%A1%C4%BEachov%C3%A1-Fajndovi%C4%87ov%C3%A1_%C4%8Cesanie_konop%C3%AD.jpg
+- `mesterseg/kotel-lepes-5.jpg` — 5. lépés: A fonal fonása a pályán (Kötélverés): Fotó: FORTEPAN / Jáki László, 1975, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:K%C3%B6t%C3%A9lver%C5%91._Fortepan_70376.jpg
+- `mesterseg/kotel-lepes-7.jpg` — 7. lépés: A kötél verése a kúppal (Kötélverés): Fotó: Thomas Bresson, CC BY 3.0 — https://commons.wikimedia.org/wiki/File:2015-07-12_10-51-38_reconst-histo-belfort.jpg
+- `mesterseg/kotel-lepes-8.jpg` — 8. lépés: A kötélvég bekötése (Kötélverés): Fotó: jeuwre, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Double_whipping_of_a_rope.jpg
+- `mesterseg/kotel-lepes-9.jpg` — 9. lépés: Szemtoldás (Kötélverés): Fotó: Rasbak, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Rope_Eye_splice_2.jpg
+- `mesterseg/kotel-palya.jpg` — Kötélverő pálya (Kötélverés): Fotó: Manfred Moitzi, CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File:Seilerei_(14401892804).jpg
+- `mesterseg/kotel-szuroar.jpg` — Szúróár (toldófa) (Kötélverés): Fotó: Jacquestsf, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Epissoirs.jpg
 - `mesterseg/kovacs-kovacsolas.jpg` — Kovácsolás (izzítás és alakítás) (Kovácsmesterség): Fotó: David Whelan, CC0 — https://commons.wikimedia.org/wiki/File:Blacksmith_hammering_iron_(29901113240).jpg
 - `mesterseg/kovacs-lepes-1.jpg` — 1. lépés: A tűz felélesztése (Kovácsmesterség): Fotó: David Whelan, közkincs — https://commons.wikimedia.org/wiki/File:Blacksmith_coal_fire_(29567766834).jpg
 - `mesterseg/kovacs-lepes-3.jpg` — 3. lépés: A vég kihegyezése (Kovácsmesterség): Fotó: Gurdeepdali, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Blacksmith_working_on_an_iron_rod.jpg
