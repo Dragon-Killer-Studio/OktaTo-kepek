@@ -3,6 +3,14 @@
 Ebben a repóban harmadik féltől származó képek vannak, mindegyik a saját licence alatt (jellemzően CC BY, CC BY-SA vagy közkincs).
 Képenként: a fájl, a tartalma, valamint a forrás, a szerző és a licenc — ahogy az OktaTo alkalmazás „Képforrások” oldala is mutatja.
 
+- `biologia/testresz-juh.jpg` — Juh testrészei (profilfotó): Suffolk kos bárány, szerző J gareth p, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:7_month_old_Suffolk_Ram_Lamb.JPG
+- `biologia/testresz-kakas.jpg` — Tyúk (kakas) testrészei (profilfotó): Rhode Island-i vörös kakas, szerző HeatherLion, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Rhode_Island_Red_cock,_cropped.jpg
+- `biologia/testresz-kecske.jpg` — Kecske testrészei (profilfotó): Házi kecske, szerző Armin Kübelbeck, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Hausziege_04.jpg
+- `biologia/testresz-kutya.jpg` — Kutya testrészei (profilfotó): Dobermann, szerző Miroslav Cacik, szabadon felhasználható — https://commons.wikimedia.org/wiki/File:Dobermann_handling.jpg
+- `biologia/testresz-macska.jpg` — Macska testrészei (profilfotó): Vörös cirmos macska, szerző Alvesgaspar, CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File:Cat_December_2005-1.jpg
+- `biologia/testresz-nyul.jpg` — Nyúl testrészei (profilfotó): Házinyúl, szerző Friedrich Haag, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:Heimtier_004_2023_08_26.jpg
+- `biologia/testresz-sertes.jpg` — Sertés testrészei (profilfotó): Duroc koca, szerző Fabricio Cardenas, CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File:20231102_-_Rouxbio_-_09_(cropped).jpg
+- `biologia/testresz-szarvasmarha.jpg` — Szarvasmarha testrészei (profilfotó): Holstein-fríz tehén, szerző Keith Weller (USDA), közkincs — https://commons.wikimedia.org/wiki/File:Cow_female_black_white.jpg
 - `blueprints/apollo-lunar-module.jpg` — Apollo holdkomp – a NASA hivatalos metszeti rajza: NASA hivatalos metszeti ábrája az Apollo holdkompról (kb. 1969, MSFC 69-MS-G-1300-27), közkincs (amerikai szövetségi kormányzati alkotás) — https://commons.wikimedia.org/wiki/File:LM_illustration_02.jpg
 - `blueprints/babbage-analytical-engine.jpg` — Babbage Analitikus Gépe – az első általános célú számítógép terve: Babbage Analitikus Gépének eredeti terve (25. terv, 1840. augusztus 6.), a Computer History Museum példánya — fotó: ArnoldReinhold, CC BY 4.0 — https://commons.wikimedia.org/wiki/File:Babbage_Analytical_Engine_Plan_1840_CHM.agr.jpg
 - `blueprints/bell-labs-transistor.jpg` — Az első tranzisztor szabadalmi rajza: John Bardeen és Walter H. Brattain (Bell Telephone Laboratories) 2 524 035. számú, a pontérintkezős tranzisztort leíró szabadalmának eredeti rajza (benyújtva 1948, megadva 1950. október 3.), közkincs (amerikai szabadalom) — https://commons.wikimedia.org/wiki/File:Point-contact_transistor_patent_US2524035.pdf
